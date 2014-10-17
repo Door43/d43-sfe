@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[sfe:home|Door43 (sfe)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-sfe|d43-sfe repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-sfe/archive/master.zip|d43-sfe.zip]]
+
+**Recent Changes**
+{{changes>ns = sfe}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/sfe|Ethnologue data]]
+
